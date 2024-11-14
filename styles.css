@@ -1,0 +1,93 @@
+body {
+  font-family: 'Arial', sans-serif;
+}
+
+.card {
+  background-color: #333;
+  border: 1px solid #fff;
+  margin-bottom: 20px;
+}
+
+.card-header {
+  background-color: #444;
+}
+
+.card-body {
+  background-color: #222;
+}
+
+.card-footer {
+  background-color: #444;
+  text-align: center;
+}
+
+a {
+  color: #00bcd4;
+}
+
+a:hover {
+  color: #ff5722;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+[lang="fa"] {
+  direction: rtl;
+}
+
+[lang="en"] {
+  direction: ltr;
+}
+
+/* استفاده از فونت وزیر به عنوان فونت اصلی */
+body {
+  font-family: 'Vazir', sans-serif;
+}
+
+/* استایل‌های دیگر برای طراحی */
+.card {
+  background-color: #333;
+  border: 1px solid #fff;
+  margin-bottom: 20px;
+}
+
+.card-header {
+  background-color: #444;
+}
+
+.card-body {
+  background-color: #222;
+}
+
+.card-footer {
+  background-color: #444;
+  text-align: center;
+}
+
+a {
+  color: #00bcd4;
+}
+
+a:hover {
+  color: #ff5722;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+/* جهت متن برای زبان‌های راست به چپ (فارسی) */
+[lang="fa"] {
+  direction: rtl;
+}
+
+/* جهت متن برای زبان‌های چپ به راست (انگلیسی) */
+[lang="en"] {
+  direction: ltr;
+}

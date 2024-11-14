@@ -1,0 +1,70 @@
+[
+  {
+    "name": {
+      "fa": "کیانوش سنجری",
+      "en": "Kianoush Sanjari"
+    },
+    "death_date": {
+      "fa": "۲۳ آبان ۱۴۰۳",
+      "en": "2024-November-14"
+    },
+    "death_cause": {
+      "fa": "خودکشی",
+      "en": "suicide"
+    },
+    "message": {
+      "fa": "اگر تا ساعت ۷ غروب امروز چهارشنبه ۲۳ آبان سال ۱۴۰۳ فاطمه سپهری، نسرین شاکرمی، توماج صالحی و آرشام رضایی از زندان آزاد نشوند و خبر آزادی‌شان در سایت خبری قوه قضاییه منتشر نشود، من در اعتراض به دیکتاتوری خامنه‌ای و شرکایش به زندگی‌ام پایان خواهم داد. شاید تلنگری باشد! پاینده ایران",
+      "en": "If Fateme Sepehari, Nasreen Shakrami, Tomaj Salehi and Arsham Rezaei are not released from prison by 7:00 PM today, Wednesday, November 23, 1403, and the news of their release is not published on the judiciary news site, I will end my life in protest against the dictatorship of Khamenei and his partners. . Maybe it's a flip! Payende Iran"
+    },
+    "wiki_link": {
+		"fa":"https://fa.wikipedia.org/wiki/%DA%A9%DB%8C%D8%A7%D9%86%D9%88%D8%B4_%D8%B3%D9%86%D8%AC%D8%B1%DB%8C",
+		"en":"https://en.wikipedia.org/wiki/Kianush_Sanjari"
+	},
+	
+    "social_links": {
+      "twitter": "https://twitter.com/Sanjaribaf",
+	  "instagram": "https://www.instagram.com/kianooshsanjari/"
+    },
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Kianoosh4.jpg"
+  },
+  {
+    "name": {
+      "fa": "محسن شکاری",
+      "en": "Mohsen Shekari"
+    },
+    "death_date": {
+      "fa": "۱۷ آذر ۱۴۰۱",
+      "en": "8 December 2022"
+    },
+    "death_cause": {
+      "fa": "اعدام",
+      "en": "execution"
+    },
+    "wiki_link": {
+		"fa":"https://fa.wikipedia.org/wiki/%D9%85%D8%AD%D8%B3%D9%86_%D8%B4%DA%A9%D8%A7%D8%B1%DB%8C",
+		"en":"https://en.wikipedia.org/wiki/Execution_of_Mohsen_Shekari"
+	},
+	
+    "image_url": "https://upload.wikimedia.org/wikipedia/fa/4/49/%D9%85%D8%AD%D8%B3%D9%86_%D8%B4%DA%A9%D8%A7%D8%B1%DB%8C.jpg"
+  },
+   {
+    "name": {
+      "fa": "مجیدرضا رهنورد",
+      "en": "Majidreza Rahnavard"
+    },
+    "death_date": {
+      "fa": "۲۱ آذر ۱۴۰۱",
+      "en": "12 December 2022"
+    },
+    "death_cause": {
+      "fa": "اعدام",
+      "en": "Execution by hanging"
+    },
+    "wiki_link": {
+		"fa":"https://fa.wikipedia.org/wiki/%D9%85%D8%AC%DB%8C%D8%AF%D8%B1%D8%B6%D8%A7_%D8%B1%D9%87%D9%86%D9%88%D8%B1%D8%AF",
+		"en":"https://en.wikipedia.org/wiki/Execution_of_Majidreza_Rahnavard"
+	},
+	
+    "image_url": "https://upload.wikimedia.org/wikipedia/fa/thumb/3/39/Majidreza-Rahnavard.jpg/220px-Majidreza-Rahnavard.jpg"
+  }
+]
